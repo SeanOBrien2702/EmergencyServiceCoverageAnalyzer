@@ -1,0 +1,47 @@
+,_id,ADDRESS_FULL,MUNICIPALITY,name,latitude,longitude
+0,1,900 Tapscott Rd,Scarborough,"Fire Station 211, Ambulance Station 27",43.8239927252015,-79.2428700353868
+1,2,5700 Bathurst St,North York,"Fire Station 112, Ambulance Station 5",43.7762855215206,-79.4442860463118
+2,3,4330 Dufferin St,North York,"Headquarters-Fire Services, Ambulance Station 16",43.7617908433807,-79.4665315263383
+3,4,12 Canterbury Pl,North York,"Fire Station 114, Ambulance Station 22",43.7726358500692,-79.4153547749349
+4,5,3100 Eglinton Ave E,Scarborough,Ambulance Station 49,43.7420003556532,-79.2262584584599
+5,6,115 Parkway Forest Dr,North York,"Fire Station 115, Ambulance Station 23",43.7744035511644,-79.340686070112
+6,7,643 Eglinton Ave W,former Toronto,Ambulance Station 18,43.7026094971495,-79.4164834289756
+7,8,1300 Pape Ave,East York,Ambulance Station 41,43.6928883810376,-79.3505195487102
+8,9,153 Chatham Ave,former Toronto,"Fire Station 323, Ambulance Station 4",43.6795428878229,-79.3346621153039
+9,10,235 Cibola Ave,former Toronto,"Fire Station 335, Ambulance Station 48",43.6254007460108,-79.3590745052274
+10,11,3061 Birchmount Rd,Scarborough,Ambulance Station 24,43.8027973657997,-79.3081577461908
+11,12,4560 Sheppard Ave E,Scarborough,"Fire Station 243, Ambulance Station 29",43.7891369171176,-79.2629602053098
+12,13,2430 Lawrence Ave E,Scarborough,EMS Northeast Service District,43.7508972063838,-79.2713595763141
+13,14,1535 Albion Rd,Etobicoke,Ambulance Station 12,43.7403086493501,-79.586020550691
+14,15,8500 Sheppard Ave E,Scarborough,"Fire Station 212, Ambulance Station 25",43.8049322415793,-79.1886200061229
+15,16,259 Horner Ave,Etobicoke,Ambulance Station 38,43.6067569394856,-79.5214273930965
+16,17,1135 Caledonia Rd,North York,Ambulance Station 11,43.7127778119767,-79.4665952981263
+17,18,760 Dovercourt Rd,former Toronto,Ambulance Station 33,43.6617051401887,-79.4299252383085
+18,19,50 Toryork Dr,North York,EMS Northwest Service District Off,43.7549120396037,-79.5465879468603
+19,20,170 Plewes Rd,North York,Ambulance Station 2,43.7333666878376,-79.4721783924509
+20,21,4135 Bathurst St,North York,Ambulance Station 17,43.7476225575664,-79.4361204018751
+21,22,155 The East Mall,Etobicoke,"Fire Station 432, Ambulance Station 39",43.6233410114915,-79.5493536952449
+22,23,135 Davenport Rd,former Toronto,Ambulance Station 45,43.6746922844132,-79.3932950019714
+23,24,2660 Eglinton Ave W,York,Ambulance Station 19,43.6905097396599,-79.4747991525337
+24,25,1288 Queen St W,former Toronto,Ambulance Station 37,43.6421230996135,-79.4301915489728
+25,26,9 Clendenan Ave,former Toronto,Ambulance Station 32,43.6530345198202,-79.4699135744778
+26,27,321 Rexdale Blvd,Etobicoke,Ambulance Station 14,43.7141444696785,-79.5845827954039
+27,28,100 Turnberry Ave,former Toronto,EMS Southwest Service District Offc,43.6782771769133,-79.4665775473039
+28,29,265 Manitoba Dr,former Toronto,Ambulance Station 35,43.6339765032134,-79.4212353836005
+29,30,2900 Lawrence Ave E,Scarborough,Ambulance Station 28,43.7541704466011,-79.2533835197115
+30,31,126 Pape Ave,former Toronto,Ambulance Station 43,43.6628190073942,-79.3385854180461
+31,32,887 Pharmacy Ave,Scarborough,Ambulance Station 44,43.729553703411,-79.2985288410622
+32,33,4219 Dundas St W,Etobicoke,Ambulance Station 31,43.6598274282489,-79.5119669020361
+33,34,1535 Kingston Rd,Scarborough,Ambulance Station 42,43.6889670361483,-79.268550909009
+34,35,2753 Jane St,North York,"Fire Station 142, Ambulance Station 15",43.7459827062059,-79.5143706434163
+35,36,339 Queens Quay W,former Toronto,"Fire Station 334, Ambulance Station 36",43.6376903109341,-79.388613016358
+36,37,674 Markham St,former Toronto,Ambulance Station 34,43.6660476238821,-79.4131802204059
+37,38,58 Richmond St E,former Toronto,Ambulance Station 40,43.6524296666291,-79.3766721664764
+38,39,555 Martin Grove Rd,Etobicoke,Ambulance Station 13,43.6771472705338,-79.5638262048301
+39,40,4331 Lawrence Ave E,Scarborough,"Toronto Police 43 Div, Ambulance Sta 26",43.770826740643,-79.1740534091441
+40,41,105 Cedarvale Ave,East York,Ambulance Station 46,43.6870891761131,-79.3107117753867
+41,42,3300 Bayview Ave,North York,"Fire Station 111, Ambulance Station 20",43.7901270072937,-79.3936558799113
+42,43,3600 St Clair Ave E,Scarborough,Ambulance Station 47,43.7180051933567,-79.2562371713796
+43,44,2015 Lawrence Ave W,York,"Fire Station 442, Ambulance Station 10",43.7005987011636,-79.5123844108684
+44,45,2075 Bayview Ave,North York,"Sunnybrook Hosp, Ambulance  21",43.721937654413,-79.3778753697949
+45,46,61 Toryork Dr,North York,,43.7547795459915,-79.5485889307727
